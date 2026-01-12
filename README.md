@@ -1,6 +1,7 @@
 # Techy-Savvies
 # Objetivo 
-Presentacion inicial 
+Soporte a una impresora Brother DCP-T220
+  No imprime saca hojas en blanco
 # Documentación
 Liga de documento y presentacion 
 https://docs.google.com/presentation/d/1QOR1xtqAP8dH7hdRUqL0RkG879dzLkGhDytCn7eDz5o/edit?usp=sharing
