@@ -4,18 +4,14 @@ Soporte a una impresora Brother DCP-T220
 
   No imprime saca hojas en blanco
 # Documentación
-Liga de documento y presentacion 
-Tarea 1
 
-https://docs.google.com/presentation/d/1QOR1xtqAP8dH7hdRUqL0RkG879dzLkGhDytCn7eDz5o/edit?usp=sharing
+Tarea 1
 https://docs.google.com/document/d/1ztqkjZG9YYhhsBBPbDwDvtfgjueaRHirWbwhRfqzOB8/edit?usp=sharing
 Tarea 2
-
 https://docs.google.com/presentation/d/1SR49lYirT0FwOMUdJs71YHw8qJdP1JKeyvl7XvLJ610/edit?usp=sharing
-
 Tarea 3
 https://docs.google.com/presentation/d/1dnMyD00NT_kzaSlW2zRb9K1el5psRzsEa2mZxfZZ-Ks/edit?slide=id.p#slide=id.p
-https://docs.google.com/document/d/1ZB_UsrB4Me5c0Ses9F70cGxW30mRj1gL2Qqy_Ikudbs/edit?tab=t.0
+
 # Miembros del equipo
 Mar Alonso,
 Jose Meneses,
