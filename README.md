@@ -11,7 +11,7 @@ https://docs.google.com/document/d/1ztqkjZG9YYhhsBBPbDwDvtfgjueaRHirWbwhRfqzOB8/
 Tarea 2
 https://docs.google.com/presentation/d/1SR49lYirT0FwOMUdJs71YHw8qJdP1JKeyvl7XvLJ610/edit?usp=sharing
 Tarea 3
-https://docs.google.com/presentation/d/1dnMyD00NT_kzaSlW2zRb9K1el5psRzsEa2mZxfZZ-Ks/edit?slide=id.p#slide=id.p
+https://docs.google.com/document/d/1ZB_UsrB4Me5c0Ses9F70cGxW30mRj1gL2Qqy_Ikudbs/edit?usp=sharing
 
 # Miembros del equipo
 Mar Alonso,
