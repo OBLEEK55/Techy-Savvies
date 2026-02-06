@@ -6,14 +6,16 @@ Soporte a una impresora Brother DCP-T220
 # Documentación
 Presentacion : <a href="https://docs.google.com/presentation/d/1QOR1xtqAP8dH7hdRUqL0RkG879dzLkGhDytCn7eDz5o/edit?usp=sharing">Proyecto Integrador</a><br>
 <ol>
-<li> <a href="https://docs.google.com/document/d/1ztqkjZG9YYhhsBBPbDwDvtfgjueaRHirWbwhRfqzOB8/edit?usp=sharing">Texto del enlace</a></li><br>
-<li> <a href="https://docs.google.com/presentation/d/1SR49lYirT0FwOMUdJs71YHw8qJdP1JKeyvl7XvLJ610/edit?usp=sharing">Texto del enlace</a></li><br>
-<li> <a href="https://docs.google.com/document/d/1ZB_UsrB4Me5c0Ses9F70cGxW30mRj1gL2Qqy_Ikudbs/edit?usp=sharing">Texto del enlace</a></li><br>
-<li> <a href="https://docs.google.com/document/d/1iyjd7L_YYSSD0cThwLVyQuXQMGawplbCAzsFRP0sYiM/edit?usp=sharing">Texto del enlace</a></li><br>
-<li> <a href="https://docs.google.com/document/d/1pVyOxCfvbMoyJTR4aSckk-k6KJt8PRuNV48YCQYVkDU/edit?usp=sharing">Gestión de Incidentes: Priorización y SLA</a></li><br>
-<li> <a href="https://docs.google.com/document/d/1Wtu6atrcTPAwV3zmZp46S6DI9YHLRLGQOmqDFo-AyiA/edit?usp=sharing">Seguridad básica y respuesta a incidentes</a></li><br>
+<li> <a href="https://docs.google.com/document/d/1ztqkjZG9YYhhsBBPbDwDvtfgjueaRHirWbwhRfqzOB8/edit?usp=sharing">Texto del enlace</a></li>
+<li> <a href="https://docs.google.com/presentation/d/1SR49lYirT0FwOMUdJs71YHw8qJdP1JKeyvl7XvLJ610/edit?usp=sharing">Texto del enlace</a></li>
+<li> <a href="https://docs.google.com/document/d/1ZB_UsrB4Me5c0Ses9F70cGxW30mRj1gL2Qqy_Ikudbs/edit?usp=sharing">Texto del enlace</a></li>
+<li> <a href="https://docs.google.com/document/d/1iyjd7L_YYSSD0cThwLVyQuXQMGawplbCAzsFRP0sYiM/edit?usp=sharing">Texto del enlace</a></li>
+<li> <a href="https://docs.google.com/document/d/1pVyOxCfvbMoyJTR4aSckk-k6KJt8PRuNV48YCQYVkDU/edit?usp=sharing">Gestión de Incidentes: Priorización y SLA</a></li>
+<li> <a href="https://docs.google.com/document/d/1Wtu6atrcTPAwV3zmZp46S6DI9YHLRLGQOmqDFo-AyiA/edit?usp=sharing">Seguridad básica y respuesta a incidentes</a></li>
+<li> <a href="https://docs.google.com/document/d/1U96hicyVIkz2w8U0ZlhEnGo2YT_4IkpcHA2a-WBCeqc/edit?usp=sharing">Documentación y Base de Conocimiento (KB)</a></li>
 </ol>
-# Miembros del equipo
+
+#Miembros del equipo
 Mar Alonso, 
 Jose Meneses,
 Azucena Rodríguez,
