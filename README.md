@@ -1,6 +1,9 @@
 # 🖨️ Techy-Savvies
 
 ## 🎯 Objetivo
+Explicar de forma clara los pasos a seguir para la solución del incidente del cliente.
+Empatizar y escuchar al usuario para aplicar modelo HEART
+Documentar todos los detalles posibles del ticket
 Brindar **soporte técnico** a la impresora **Brother DCP-T220**, enfocándonos en la resolución del siguiente incidente:
 
 > ❌ **La impresora no imprime, sólo envía hojas en blanco**
